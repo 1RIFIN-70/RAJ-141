@@ -1,8 +1,3 @@
-termux-setup-storage
-y then enter
- 
-pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && pkg install python3 -y && pkg install git -y && git clone https://github.com/Ibrahim404-cyber/fuck && cd fuck && python mama.py
- 
 <h1 align="center">Hi 👋, I'm RAAJ-141</h1>
 <h3 align="center">
   🤠 About me : 
@@ -26,27 +21,27 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARIFIN.RAJ00&label=Profile%20views&color=0e75b6&style=flat" alt="ARIFIN.RAJ00" /> </p>
  
-<p align="left"> <a href="https://twitter.com/ibrahimkholil_0" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimkholil_0?logo=twitter&style=for-the-badge" alt="ibrahimkholil_0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ARIFIN.RAJ00_0" target="blank"><img src="https://img.shields.io/twitter/follow/ARIFIN.RAJ00?logo=twitter&style=for-the-badge" alt="ARIFIN.RAJ00" /></a> </p>
  
 - 🔭 I’m currently working on **Python & SQLI**
  
 - 🌱 I’m currently learning **Python,frameworks, courses etc**
  
-- 📝 I regularly write articles on [https://en.wikialpha.org/wiki/Ibrahim_Kholil](https://en.wikialpha.org/wiki/Ibrahim_Kholil)
+- 📝 I regularly write articles on [https://en.wikialpha.org/wiki/Ibrahim_Kholil](https://en.wikialpha.org/wiki/ARIFIN.RAJ00)
  
 - 💬 Ask me about **😀🤓**
  
 - 📫 How to reach me **alfearifin@gmail.com**
  
-- 📄 Know about my experiences [https://en.wikialpha.org/wiki/Ibrahim_Kholil](https://en.wikialpha.org/wiki/Ibrahim_Kholil)
+- 📄 Know about my experiences [https://en.wikialpha.org/wiki/Ibrahim_Kholil](https://en.wikialpha.org/wiki/ARIFIN.RAJ00)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ibrahim-kholil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibrahim-kholil" height="30" width="40" /></a>
-<a href="https://twitter.com/ibrahimkholil_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimkholil_0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahim-kholil420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-kholil420" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ibrahim.kholi.ullah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dr.ibrahim.kholil" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahimkholil_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimkholil_official" height="30" width="40" /></a>
+<a href="https://twitter.com/ARIFIN.RAJ00_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ARIFIN.RAJ00_0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-kholil420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ARIFIN.RAJ00" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ibrahim.kholi.ullah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ARIFIN.RAJ00" height="30" width="40" /></a>
+<a href="https://instagram.com/ARIFIN.RAJ00_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ARIFIN.RAJ00_official" height="30" width="40" /></a>
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
