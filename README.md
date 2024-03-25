@@ -27,20 +27,20 @@
  
 - 🌱 I’m currently learning **Python,frameworks, courses etc**
  
-- 📝 I regularly write articles on [https://en.wikialpha.org/wiki/Ibrahim_Kholil](https://en.wikialpha.org/wiki/ARIFIN.RAJ00)
+- 📝 I regularly write articles on [https://en.wikialpha.org/wiki/ARIFIN.RAJ00](https://en.wikialpha.org/wiki/ARIFIN.RAJ00)
  
 - 💬 Ask me about **😀🤓**
  
 - 📫 How to reach me **alfearifin@gmail.com**
  
-- 📄 Know about my experiences [https://en.wikialpha.org/wiki/Ibrahim_Kholil](https://en.wikialpha.org/wiki/ARIFIN.RAJ00)
+- 📄 Know about my experiences [https://en.wikialpha.org/wiki/ARIFIN.RAJ00](https://en.wikialpha.org/wiki/ARIFIN.RAJ00)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ibrahim-kholil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibrahim-kholil" height="30" width="40" /></a>
 <a href="https://twitter.com/ARIFIN.RAJ00_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ARIFIN.RAJ00_0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahim-kholil420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ARIFIN.RAJ00" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ibrahim.kholi.ullah2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ARIFIN.RAJ00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ARIFIN.RAJ00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ARIFIN.RAJ00" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ARIFIN.RAJ00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ARIFIN.RAJ00" height="30" width="40" /></a>
 <a href="https://instagram.com/ARIFIN.RAJ00_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ARIFIN.RAJ00_official" height="30" width="40" /></a>
 </p>
  
